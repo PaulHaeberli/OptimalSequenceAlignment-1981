@@ -11,6 +11,6 @@ could be found in order n^2 time, instead of order n^3 time.
 
 I think others arrived at the same conclusion about the same time.
 
-This is an unpublished manuscript describing this method, along with Fortran code.
+This is an unpublished manuscript describes the method, along with Fortran code.
 
 This software was distributed by the  [Univerity of Wisconsin Genetics Computer Group](https://www.drugdiscoveryonline.com/doc/gcggenetics-computer-group-0001) in 1982.
